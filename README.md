@@ -1,4 +1,4 @@
-![](.github/banner.png)
+![](./.github/banner.png)
 
 <p align="center">
     A Python script to find tenant id and region from a list of domain names.
